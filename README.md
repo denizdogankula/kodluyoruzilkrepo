@@ -6,7 +6,10 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 ![IMG](<Ekran görüntüsü 2024-02-28 152133.png>)
 
 Installation
-Öncelikle projeyi clonelayın. [Buraya sizin reponuzdan aldığınız link gelecek](https://github.com/denizdogankula/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın.
+
+``` ([Buraya sizin reponuzdan aldığınız link gelecek](https://github.com/denizdogankula/kodluyoruzilkrepo.git))
+ ```
 
 
 ## Usage
