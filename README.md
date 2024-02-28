@@ -15,7 +15,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
 ```
-print("cd kodluyoruzilkrepo")
+cd("cd kodluyoruzilkrepo")
 code .
 ```
 
